@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ble_example</string>
+    <string name="turn_on_bluetooth">Включите bluetooth</string>
+    <string name="empty"></string>
+    <string name="connect">Подключиться</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="send_data">Отправить данные</string>
+    <string name="input_data_to_send">Введите данные для отправки</string>
+    <string name="input_mac">Введите mac!</string>
+    <string name="disconnected">Отключено</string>
+    <string name="connected">Подключено</string>
+    <string name="one_space">&#160;</string>
+</resources>
